@@ -1,0 +1,21 @@
+{
+  "name": "moleculer-web-rate-limit-leak-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^26.0.1",
+    "moleculer": "^0.14.6",
+    "moleculer-web": "^0.9.1",
+    "supertest": "^4.0.2"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  }
+}
